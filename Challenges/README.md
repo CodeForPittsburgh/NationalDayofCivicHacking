@@ -6,12 +6,12 @@ Address Geo-Coding single and bulk
 Police Blotter Queries
 Census vs Voting districts
 Build marker file from data
-# places to look
-http://pittsburghpa.gov/dcp/gis/
-http://www.qgis.org/en/site/
-https://www.openstreetmap.org
-http://sourceforge.net/projects/wampserver/
-http://www.pgadmin.org/
+# Places to look
+http://pittsburghpa.gov/dcp/gis/ <br>
+http://www.qgis.org/en/site/ <br>
+https://www.openstreetmap.org <br>
+http://sourceforge.net/projects/wampserver/ <br>
+http://www.pgadmin.org/ <br>
 
 
 
