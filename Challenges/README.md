@@ -1,7 +1,7 @@
 # National Day of Civic Hacking
 June 6th 2015 <br>
-plans include map instruction and <br>
-training followed by mapping civic data <br>
+Plans include map instruction and training <br>
+followed by mapping civic data <br>
 # Challenges
 Address Geo-Coding single and bulk <br>
 Police Blotter Queries <br>
