@@ -7,7 +7,7 @@ Walk through a short introduction to digital mapping<br>
 Show you how to create spatial data <br>
 Work through a few short example mapping exercises using a few <br> different tools <br>
 
-In the afternoon, you’ll use these skills and resources to work with <br>real data on real challenges. <br>
+In the afternoon, you'll use these skills and resources to work with <br>real data on real challenges. <br>
 Such as Code and Data Challenges <br>
 Snack and Lunch will be provided <br>
 # Tools
