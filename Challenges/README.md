@@ -7,6 +7,7 @@ Address Geo-Coding single and bulk <br>
 Police Blotter Queries <br>
 Census vs Voting districts <br>
 Build marker file from data <br>
+Smart phone touch for Police Blotter Markers <br>
 # Places to look
 http://pittsburghpa.gov/dcp/gis/ <br>
 http://www.qgis.org/en/site/ <br>
