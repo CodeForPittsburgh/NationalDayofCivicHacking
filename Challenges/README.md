@@ -21,6 +21,9 @@ http://maptime.io/pittsburgh/ <br>
 http://geodata.alleghenycounty.us/arcgis/rest/services/Geocoders/EAMS_Composite_Loc/GeocodeServer <br>
 https://developers.google.com/maps/ <br>
 http://hackforchange.org/challenges/ <br>
+http://us-city.census.okfn.org/ <br>
+http://www.codeforamerica.org/blog/2015/05/28/contribute-to-the-police-open-data-census/ <br>
+
 
 
 
