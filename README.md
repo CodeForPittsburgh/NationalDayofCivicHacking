@@ -14,12 +14,12 @@ Snack and Lunch will be provided <br>
 ## Morning
 Coffee and donuts
 ## Lunch
-Assorted Pierogies
-Sandwich rings
-Vegetable Tray
-Beverage
-Assorted Chips
-Cookies
+Assorted Pierogies <br>
+Sandwich rings <br>
+Vegetable Tray <br>
+Beverage <br>
+Assorted Chips <br>
+Cookies <br>
 # Tools
 Open Street Map <br>
 pgAdmin3 <br>
