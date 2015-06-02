@@ -10,16 +10,18 @@ Work through a few short example mapping exercises using a few <br> different to
 In the afternoon, you'll use these skills and resources to work with <br>real data on real challenges. <br>
 Such as Code and Data Challenges <br>
 Snack and Lunch will be provided <br>
-# Tentative menu
+# Menu
 ## Morning
 Coffee and donuts
 ## Lunch
-Assorted Pierogies <br>
+Pierogies <br>
 Sandwich rings <br>
 Vegetable Tray <br>
+Fruit Tray <br>
 Beverage <br>
 Assorted Chips <br>
 Cookies <br>
+Beverages <br>
 # Tools
 Open Street Map <br>
 pgAdmin3 <br>
