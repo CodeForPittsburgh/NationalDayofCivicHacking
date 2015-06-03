@@ -18,7 +18,6 @@ Pierogies <br>
 Sandwich rings <br>
 Vegetable Tray <br>
 Fruit Tray <br>
-Beverage <br>
 Assorted Chips <br>
 Cookies <br>
 Beverages <br>
