@@ -14,7 +14,6 @@ Snack and Lunch will be provided <br>
 ## Morning
 Coffee and donuts
 ## Lunch
-Pierogies <br>
 Sandwich rings <br>
 Vegetable Tray <br>
 Fruit Tray <br>
