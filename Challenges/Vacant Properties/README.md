@@ -17,6 +17,7 @@ The resulting datasets are as follows:
 ## Analysis and Visualization
 To investigate what could be learned from the combined dataset, we selected two variables from the county records for further analysis: (1) `FairMarketLand`: the assessed fair market land value for North Side vacant properties, and (2) `UseDesc`: the county's property use classification. We summarized these variables for each category in the GTECH classification scheme, and the results are shown below. 
 
+![alt-text](https://github.com/danielnarey/NationalDayofCivicHacking/raw/master/Challenges/Vacant%20Properties/graphics/classification_by_use.svg)
 
 ## Mapping
 A few team members were also working on maps. Please update this section with information about maps created by the team and share links or source files. 
